@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    justify-self: center;
+    text-align: center;
+    margin: 50px;
+background-color: beige;    color: rgb(29, 29, 133);
+    font-size: 30px;
+
+}
+#quote-container{
+    margin-bottom: 20px;
+}
+#new-quote-btn{
+    border: 0;
+    width: 250px;
+    height: 50px;
+    border-radius: 15px;
+    padding: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color: rgb(29, 29, 133);
+    color: wheat;
+}
+#text{
+    background-color: rgb(29, 29, 133);
+    color: wheat;
+    font-size: 20px;
+}
